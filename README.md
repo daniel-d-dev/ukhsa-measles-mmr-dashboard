@@ -1,5 +1,6 @@
 # UKHSA Measles and MMR Vaccine Dashboard
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-d-dev/ukhsa-measles-mmr-dashboard/HEAD?urlpath=voila%2Frender%2FDashboard.ipynb%3F)
 ## Overview
 
 This repository contains the code for an interactive data dashboard built using **Python**, **Pandas**, **Matplotlib**, and **Jupyter Widgets (ipywidgets)**. The dashboard is designed to be rendered using **Voila** and visualises two key metrics from the UK Health Security Agency (UKHSA) data:
@@ -30,5 +31,3 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib requests ipywidgets voila
-
-https://mybinder.org/v2/gh/daniel-d-dev/ukhsa-measles-mmr-dashboard/HEAD?urlpath=voila%2Frender%2FDashboard.ipynb%3F
